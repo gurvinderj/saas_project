@@ -18,6 +18,10 @@
  @import 'bootstrap-sprockets';
  @import 'bootstrap';
  
+ // Import Font Awesome
+ @import "font-awesome-sprockets";
+ @import "font-awesome";
+ 
  // Background Gradient
 .navbar, .home-callout {
     // Gradient provided by https://twitter.com/_ighosh @ uigradients.com
