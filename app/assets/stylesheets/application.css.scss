@@ -35,6 +35,7 @@
     border: none;
 }
 
+// DevMatch Logo
 .navbar-brand {
   font-family: 'Open Sans', sans-serif;
   font-weight: 800;
@@ -48,6 +49,18 @@
       color: white;
       opacity: 0.75;
     }
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background: white;
+  
+}
+
+.navbar-default .navbar-toggle {
+  border: 2px solid white;
+  &:hover, &:focus {
+    background-color: #19547b;
+  }
 }
 
 // Sizing of home callout to add gradient 
