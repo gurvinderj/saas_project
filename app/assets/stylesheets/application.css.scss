@@ -75,3 +75,8 @@
 h1, h2, h3 {
     font-family: 'Open Sens', sans-serif;
 }
+
+//Hide Sign in and Sign out Alert
+.alert-notice {
+  display: none;
+}
