@@ -30,6 +30,11 @@
     background: linear-gradient(to left, #ffd89b , #19547b); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+// Add margin to make home page sign up buttons even
+.home-signup-links {
+  margin-top: 30px;
+}
+
 // Nav Styles
 .navbar {
     border: none;
